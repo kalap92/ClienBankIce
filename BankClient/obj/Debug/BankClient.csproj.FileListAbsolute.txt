@@ -1,0 +1,9 @@
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\BankClient.exe
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\BankClient.pdb
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\Ice.dll
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\Ice.xml
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\obj\Debug\BankClient.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\obj\Debug\BankClient.exe
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\obj\Debug\BankClient.pdb
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\IceSSL.dll
+C:\Users\Piotr\documents\visual studio 2012\Projects\BankClient\BankClient\bin\Debug\IceSSL.xml
